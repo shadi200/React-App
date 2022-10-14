@@ -1,0 +1,16 @@
+.custom_brdr {
+    border: none !important;
+    border-radius: 0 !important;
+    border-bottom: 1px solid #e9ecef !important;
+}
+
+.btn_green {
+    color: #fff !important;
+    background-color: #1abc9c !important;
+    padding: 16px 18px !important;
+}
+
+.btn_green:hover {
+    background-color: #1aa085 !important;
+    padding: 16px 18px !important;
+}
